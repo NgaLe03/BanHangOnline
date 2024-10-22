@@ -3,44 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\BanHangOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\migrations\\202410220125196_editproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\migrations\\202410220125196_editproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\models\\ef\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\models\\ef\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\models\\ef\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\models\\ef\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\areas\\admin\\views\\news\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\news\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\migrations\\202410151408194_updateactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\migrations\\202410151408194_updateactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\models\\ef\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\models\\ef\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|c:\\users\\dell\\documents\\banhangonline\\banhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|C:\\Users\\Dell\\Documents\\BanHangOnline\\banhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46251853-3D54-47EF-B065-B4A45EB620F2}|BanHangOnline\\BanHangOnline.csproj|solutionrelative:banhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +62,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202410220125196_editProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Migrations\\202410220125196_editProductCategory.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Migrations\\202410220125196_editProductCategory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Migrations\\202410220125196_editProductCategory.cs",
+              "RelativeToolTip": "BanHangOnline\\Migrations\\202410220125196_editProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:25:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Models\\EF\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\ProductCategory.cs",
+              "RelativeToolTip": "BanHangOnline\\Models\\EF\\ProductCategory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:23:59.92Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
@@ -62,133 +100,140 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "202410151408194_UpdateActive.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Migrations\\202410151408194_UpdateActive.cs",
-              "RelativeDocumentMoniker": "BanHangOnline\\Migrations\\202410151408194_UpdateActive.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Migrations\\202410151408194_UpdateActive.cs",
-              "RelativeToolTip": "BanHangOnline\\Migrations\\202410151408194_UpdateActive.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:08:25.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\Category.cs",
-              "RelativeDocumentMoniker": "BanHangOnline\\Models\\EF\\Category.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\Category.cs",
-              "RelativeToolTip": "BanHangOnline\\Models\\EF\\Category.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA5wB8AAAAAAAAA",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowA8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:07:15.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\Product.cs",
-              "RelativeDocumentMoniker": "BanHangOnline\\Models\\EF\\Product.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\Product.cs",
-              "RelativeToolTip": "BanHangOnline\\Models\\EF\\Product.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:07:01.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Posts.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\Posts.cs",
-              "RelativeDocumentMoniker": "BanHangOnline\\Models\\EF\\Posts.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\Posts.cs",
-              "RelativeToolTip": "BanHangOnline\\Models\\EF\\Posts.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:06:28.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAowGAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T13:48:59.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEwAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T13:44:48.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\News.cs",
-              "RelativeDocumentMoniker": "BanHangOnline\\Models\\EF\\News.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\EF\\News.cs",
-              "RelativeToolTip": "BanHangOnline\\Models\\EF\\News.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA7wBsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:38:48.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:28:30.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFABAAAAAAAAAAAAAGEBAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T13:10:42.566Z",
+              "WhenOpened": "2024-10-21T09:26:31.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
-              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
-              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAgwGIAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T08:59:51.248Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:22:10.626Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAwJcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T08:43:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAiwHwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:39:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T07:49:54.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T07:47:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "BanHangOnline\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAswEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:21:41.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:18:18.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAvwD0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:43:16.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:18:32.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "BanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\BanHangOnline\\BanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "BanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:05:23.768Z"
             }
           ]
         }

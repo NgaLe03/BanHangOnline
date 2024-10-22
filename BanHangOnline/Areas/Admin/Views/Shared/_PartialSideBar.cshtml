@@ -21,7 +21,6 @@
             </div>
         </div>
     </div>-->
-
     <!-- Sidebar Menu -->
     <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
@@ -55,6 +54,14 @@
                     </a>
                 </li>
             </ul>*@
+            </li>
+            <li class="nav-item">
+                <a href="/admin/role" class="nav-link">
+                    <i class="nav-icon fas fa-th"></i>
+                    <p>
+                        Quyền
+                    </p>
+                </a>
             </li>
             <li class="nav-item">
                 <a href="/admin/news" class="nav-link">
@@ -115,9 +122,53 @@
                     </p>
                 </a>
             </li>
-
+            <li class="nav-item">
+                <a href="/admin/account" class="nav-link">
+                    <i class="nav-icon fas fa-th"></i>
+                    <p>
+                        Tài khoản
+                        @*<span class="right badge badge-danger">New</span>*@
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="javascript:document.getElementById('logOffForm').submit()" class="nav-link">
+                    <i class="nav-icon fas fa-th"></i>
+                    <p>
+                        Đăng xuất
+                        @*<span class="right badge badge-danger">New</span>*@
+                    </p>
+                </a>
+            </li>
         </ul>
     </nav>
     <!-- /.sidebar-menu -->
 </div>
 <!-- /.sidebar -->
+@*<script>
+
+        console.log('Request.IsAuthenticated', Request.IsAuthenticated);
+    </script>*@
+    @if (Request.IsAuthenticated)
+    {
+        @*<script>
+            console.log('i');
+        </script>*@
+        <div style="display:none">
+                    @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { @id = "logOffForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                    }
+        </div>
+    }
+@*@{
+    <script>
+        console.log('i');
+    </script>
+    <div style="display:none">
+        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { @id = "logOffForm" }))
+        {
+            @Html.AntiForgeryToken()
+        }
+    </div>
+}*@

@@ -221,3 +221,4 @@ C:\Users\Dell\Documents\BanHangOnline\BanHangOnline\obj\Debug\BanHangOnline.Migr
 C:\Users\Dell\Documents\BanHangOnline\BanHangOnline\bin\CKFinder.dll
 C:\Users\Dell\Documents\BanHangOnline\BanHangOnline\bin\CKFinder.pdb
 C:\Users\Dell\Documents\BanHangOnline\BanHangOnline\obj\Debug\BanHangOnline.Migrations.UpdateActive.resources
+C:\Users\Dell\Documents\BanHangOnline\BanHangOnline\obj\Debug\BanHangOnline.Migrations.editProductCategory.resources
