@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BanHangOnline-admin",
+    "\\BanHangOnline-admin\\BanHangOnline",
+    "\\BanHangOnline-admin\\BanHangOnline\\Areas",
+    "\\BanHangOnline-admin\\BanHangOnline\\Areas\\Admin",
+    "\\BanHangOnline-admin\\BanHangOnline\\Areas\\Admin\\Views",
+    "\\BanHangOnline-admin\\BanHangOnline\\Areas\\Admin\\Views\\Account"
+  ],
+  "SelectedNode": "\\BanHangOnline-admin\\BanHangOnline\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+  "PreviewInSolutionExplorer": false
+}
