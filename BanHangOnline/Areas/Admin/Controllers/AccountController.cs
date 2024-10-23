@@ -20,16 +20,17 @@ namespace BanHangOnline.Areas.Admin.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
         private ApplicationDbContext db = new ApplicationDbContext();
-        // GET: Admin/Account
+
         public AccountController()
         {
+        }
 
-        }
-        public AccountController(ApplicationSignInManager signInManager, ApplicationUserManager userManager)
+        public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
-            SignInManager = signInManager;
             UserManager = userManager;
+            SignInManager = signInManager;
         }
+
         public ApplicationSignInManager SignInManager
         {
             get
@@ -41,6 +42,7 @@ namespace BanHangOnline.Areas.Admin.Controllers
                 _signInManager = value;
             }
         }
+
         public ApplicationUserManager UserManager
         {
             get
@@ -52,21 +54,25 @@ namespace BanHangOnline.Areas.Admin.Controllers
                 _userManager = value;
             }
         }
+
+        // GET: Admin/Account
         public ActionResult Index()
         {
             var items = db.Users.ToList();
             return View(items);
         }
-        
-        //GET: /Account/Login
+
+        //
+        // GET: /Account/Login
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
-            ViewBag.ReturnUrl = returnUrl;  
+            ViewBag.ReturnUrl = returnUrl;
             return View();
         }
 
-        //POST: /Account/Login
+        //
+        // POST: /Account/Login
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
@@ -76,8 +82,11 @@ namespace BanHangOnline.Areas.Admin.Controllers
             {
                 return View(model);
             }
+
+            // This doesn't count login failures towards account lockout
+            // To enable password failures to trigger account lockout, change to shouldLockout: true
             var result = await SignInManager.PasswordSignInAsync(model.UserName, model.Password, model.RememberMe, shouldLockout: false);
-                switch (result)
+            switch (result)
             {
                 case SignInStatus.Success:
                     return RedirectToLocal(returnUrl);
@@ -91,6 +100,7 @@ namespace BanHangOnline.Areas.Admin.Controllers
                     return View(model);
             }
         }
+
         //
         // POST: /Account/LogOff
         [HttpPost]
@@ -100,7 +110,9 @@ namespace BanHangOnline.Areas.Admin.Controllers
             AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
             return RedirectToAction("Index", "Home");
         }
-        //GET: /Account/Register
+
+        //
+        // GET: /Account/Register
         [AllowAnonymous]
         public ActionResult Create()
         {
@@ -109,7 +121,7 @@ namespace BanHangOnline.Areas.Admin.Controllers
         }
 
         //
-        //POST: /Account/Register
+        // POST: /Account/Register
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
@@ -120,22 +132,35 @@ namespace BanHangOnline.Areas.Admin.Controllers
                 var user = new ApplicationUser 
                 { 
                     UserName = model.UserName, 
+                    FullName = model.FullName, 
                     Email = model.Email, 
-                    FullName = model.FullName,
-                    Phone = model.Phone, 
+                    Phone = model.Phone  
                 };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
                     UserManager.AddToRole(user.Id, model.Role);
-                   /* await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);*/
+                    //await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
+
+                    // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=320771
+                    // Send an email with this link
+                    // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                    // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                    // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
+
                     return RedirectToAction("Index", "Home");
                 }
                 AddErrors(result);
             }
             ViewBag.Role = new SelectList(db.Roles.ToList(), "Name", "Name");
+
+            // If we got this far, something failed, redisplay form
             return View(model);
         }
+
+       
+        
+ 
         private IAuthenticationManager AuthenticationManager 
         { 
             get

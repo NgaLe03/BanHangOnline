@@ -69,6 +69,7 @@ namespace BanHangOnline.Models
 
         public string Phone { get; set; }
         public string Role { get; set; }
+
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]

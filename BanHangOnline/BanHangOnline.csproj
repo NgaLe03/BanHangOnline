@@ -5033,8 +5033,6 @@
     <Content Include="Areas\Admin\Views\Role\Create.cshtml" />
     <Content Include="Areas\Admin\Views\Role\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Account\Index.cshtml" />
-    <Content Include="Areas\Admin\Views\Account\Create.cshtml" />
-    <Content Include="Areas\Admin\Views\Account\Login.cshtml" />
     <Content Include="Areas\Admin\Views\Shared\_LayoutLogin.cshtml" />
     <Content Include="Content\assets\dist\css\adminlte.css.map" />
     <Content Include="Content\assets\dist\css\adminlte.min.css.map" />
@@ -5115,6 +5113,8 @@
     <Content Include="Content\assets\plugins\summernote\summernote.js.map" />
     <Content Include="Content\assets\plugins\summernote\summernote.min.js.map" />
     <Content Include="Content\assets\plugins\toastr\toastr.js.map" />
+    <Content Include="Areas\Admin\Views\Account\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\Account\Login.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

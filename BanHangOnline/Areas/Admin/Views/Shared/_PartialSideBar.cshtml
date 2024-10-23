@@ -133,11 +133,12 @@
             </li>
             <li class="nav-item">
                 <a href="javascript:document.getElementById('logOffForm').submit()" class="nav-link">
-                    <i class="nav-icon fas fa-th"></i>
-                    <p>
-                        Đăng xuất
-                        @*<span class="right badge badge-danger">New</span>*@
-                    </p>
+                @*<a href="javascript:document.getElementById('logOffForm').submit()" class="nav-link">*@
+                <i class="nav-icon fas fa-th"></i>
+                <p>
+                    Đăng xuất
+                    @*<span class="right badge badge-danger">New</span>*@
+                </p>
                 </a>
             </li>
         </ul>
@@ -149,7 +150,7 @@
 
         console.log('Request.IsAuthenticated', Request.IsAuthenticated);
     </script>*@
-    @if (Request.IsAuthenticated)
+ @if (Request.IsAuthenticated)
     {
         @*<script>
             console.log('i');
